@@ -6,7 +6,7 @@
         <p>{{ cartItem.description }}</p>
         <p>Price: {{ cartItem.price | currency:"EUR" }}</p>
         <label>
-          Quantity:
+          Qty:
           <input type="number" [(ngModel)]="cartItem.quantity" (change)="totalCalculator()">
         </label>
         <button class="remove-button" (click)="removeProductCart(cartItem.id)"><i class="fa-solid fa-xmark"></i></button>
