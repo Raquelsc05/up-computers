@@ -1,7 +1,23 @@
-# AppUpcomputers
+# App Up computers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
+This project it was make to show how a  e-commerce' s website works.
+<ul>
+<li>This Web you can  buy the product, specify the quantity, add to cart, can see  the cart as been populated.</li>
+<li>When we opened the cart, we can see the product, to specify the quantity, and till removed the product.</li>
+ <li>Clicking in buy, we simuleted a purchase. The purchase is made and came back the home page.</li>
+  
+  #### There is no back-end, just Material Angular functions.
+  
+  ### Contact Page 
+  Forms relatives - that show error message when is not fully insert, and the message can not be send if you do not have the information correctly entered.
+  ### Search Bar
+  Search bar independent where you are at the application.  When I search for a product, it will open a searched product tab.
+  
+  ### More components
+  Products details, Cart
+  
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
