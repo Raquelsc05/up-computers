@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
-This project it was make to show how a  e-commerce' s website works.
+This project it was make to show how an  E-commerce's website works.
 <ul>
 <li>This Web you can  buy the product, specify the quantity, add to cart, can see  the cart as been populated.</li>
 <li>When we opened the cart, we can see the product, to specify the quantity, and till removed the product.</li>
@@ -16,7 +16,7 @@ This project it was make to show how a  e-commerce' s website works.
   Search bar independent where you are at the application.  When I search for a product, it will open a searched product tab.
   
   ### More components
-  Products details, Cart
+  Products details, Cart, Nav toolbar...
   
 ## Development server
 
