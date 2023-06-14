@@ -6,7 +6,7 @@ This project it was make to show how an  E-commerce's website works.
 <ul>
 <li>This Web you can  buy the product, specify the quantity, add to cart, can see  the cart as been populated.</li>
 <li>When we opened the cart, we can see the product, total amount, to specify the quantity, and till removed the product.</li>
- <li>Clicking in buy, we simuleted a purchase. The purchase is made and came back the home page.</li>
+ <li>Clicking in buy, we simuleted a purchase. The purchase is made and came back to the home page.</li>
   
   #### There is no back-end, just Material Angular functions.
   
